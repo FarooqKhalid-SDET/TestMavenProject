@@ -8,4 +8,9 @@ public class TestHelloWorld {
     public void testHelloWorld(){
         System.out.println("Test Hello World");
     }
+
+    @Test
+    public void testHelloProgramming(){
+        System.out.println("Test Hello Programming");
+    }
 }

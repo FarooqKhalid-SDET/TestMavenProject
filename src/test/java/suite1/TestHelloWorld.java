@@ -1,3 +1,5 @@
+package suite1;
+
 import org.testng.annotations.Test;
 
 public class TestHelloWorld {
